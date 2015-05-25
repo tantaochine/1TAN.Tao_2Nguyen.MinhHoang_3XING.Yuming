@@ -29,6 +29,7 @@ import javax.swing.table.DefaultTableModel;
 /**
  *
  * @author xing
+ * @author tan
  */
 public class FormationFenetre extends JFrame {
     private FormationFenetre nf;
